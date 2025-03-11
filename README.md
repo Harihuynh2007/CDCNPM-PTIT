@@ -63,4 +63,4 @@ Sau đó mở `report.html` trong trình duyệt để xem kết quả.
 - Kiểm tra kỹ `chromedriver.exe` đã nằm trong thư mục `PATH` hoặc đặt trong thư mục dự án.
 
 ## 📞 Hỗ trợ
-Nếu gặp vấn đề khi cài đặt hoặc chạy test, hãy liên hệ qua **Issues** trên GitHub hoặc email: [your-email@example.com](mailto:your-email@example.com)
+Nếu gặp vấn đề khi cài đặt hoặc chạy test, hãy liên hệ qua **Issues** trên GitHub hoặc email: [your-email@example.com](mailto:hminhhai2000@gmail.com)
