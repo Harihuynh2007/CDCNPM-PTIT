@@ -75,10 +75,9 @@ python run_test.py
 
 ## 👨‍💻 Tác giả
 
-- Tên SV: [Điền tên tại đây]
-- MSSV: [Mã số sinh viên]
-- Lớp: [VD: CNTT3-K64]
-- Trường: [VD: Đại học Công nghệ - ĐHQGHN]
+- Tên SV: HUỲNH MINH HẢI
+- Lớp: D18CQCP01-N
+- Trường: Học viện công nghệ bưu chính viễn thông
 
 ---
 
